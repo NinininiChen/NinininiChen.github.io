@@ -21,7 +21,11 @@ git clone https://github.com/manuelernestog/astro-modern-personal-website.git
 - `rm`: remove file 
     - `-r` remove directory
     - `-f` force remove
-    - 
+- git family
+    - `git add .`
+    - `git commit -m "XXXXX"`
+    - `git push`
 
-![](https://i.imgur.com/QmmzapD.jpg)!
-:DDDDDDDDDD
+![](https://i.imgur.com/QmmzapD.jpg)
+![](https://i.imgur.com/Pz6PxBI.jpg)
+
