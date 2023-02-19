@@ -13,9 +13,15 @@ git clone https://github.com/manuelernestog/astro-modern-personal-website.git
 ```
 
 - `ls`: list all item in folder
+    - `-a`: show all include hidden file
+    - `-l`: 
 - `cd`: entry folder
 - `tree`: show the tree graphy for this folder
 - `code`: open the VSCode Application on this fodler
+- `rm`: remove file 
+    - `-r` remove directory
+    - `-f` force remove
+    - 
 
-![](https://i.imgur.com/QmmzapD.jpg)![](https://i.imgur.com/QmmzapD.jpg)
-
+![](https://i.imgur.com/QmmzapD.jpg)!
+:DDDDDDDDDD
