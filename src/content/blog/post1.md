@@ -2,7 +2,7 @@
 title: "Service Innocation Design - Desing for anti-aging"
 description: "The project is focused on senior service innovation, using digital technology to meet the needs of future seniors."
 pubDate: "June 15 2022"
-heroImage: "![](https://i.imgur.com/fx2sT8J.png)"
+heroImage: "https://i.imgur.com/fx2sT8J.png"
 ---
 
 The project is focused on senior service innovation, combining trend observation, user thinking, and innovative models. We designed the project using the UK design council's double diamond model design process and corresponding design tools, as well as collaborating with service design providers and industry companies to propose designs that meet the needs of future senior citizens' lives.
