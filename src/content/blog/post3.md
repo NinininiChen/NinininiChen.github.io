@@ -1,16 +1,64 @@
 ---
-title: "Demo Post 3"
+title: "Psycology and Design"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 pubDate: "Sep 12 2022"
-heroImage: "/post_img.webp"
+heroImage: "https://i.imgur.com/3vciH2w.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+### 視覺設計(Visual Design)- Redesign for the school shuttle bus timetable 
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+![](https://i.imgur.com/rQKXdI5.png)
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+The school bus schedule is a frequently used infographic for students, but the table provided by the school is difficult to read and understand.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Because it is not symmetrical, there are too many colors and useless information. The information was also not grouped by distance or in the same area, nor were the colors similar to the text. Also, the bus stop appearance may be unfamiliar to new students.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+>Therefore, I improved the design according to the following principles:
+>- Consider the symmetry of the overall picture.
+>- Use of proximity to distinguish time by intervals.
+>- Use similarity of block color and route color to show readers the difference between the red line and the green line.
+>- Design school bus stop icons to make it easy for newcomers to identify stop locations.
+
+
+
+### 使用者體驗(UX) - Public space in campus
+![](https://i.imgur.com/V0cL5qu.jpg)
+
+"J-Hill (Zhaiqiu)" is a public space in National Tsinghua University accommodation area, covering T-HOUSE (meeting space with kitchen and beverage facilities.), BTB+ (diversified woodworking classroom), treehouse, and other facilities. Through the J-Hill squad group, activities such as promotional activities and building repairs will be carried out. Hoping to provide a good place for teachers and students inside and outside the school to live, communicate and learn.
+
+- Document: https://drive.google.com/file/d/1q5rjBO_ZWASxQqed0lG2aACSzdwl_rcv/view?usp=share_link
+- Video: https://drive.google.com/file/d/16s9xzsQ68BdnbJCc831MrbfvL2tY6l-E/view?usp=share_link
+    
+### 行為設計(Behavior Design）- Living habits for elderly
+
+![](https://i.imgur.com/CobGEpt.png)
+
+
+Designed to improve the living difficulties of the elderly and help them have healthier and more comfortable living habits.
+
+>Applying the "Healthcare Smartwatch" as a simple technological approach to:
+>- Detect physiological status: : including heartbeat, blood pressure, location, Sleep state, etc.
+>- Schedule reminders: including exercise, medication, sleep, etc.
+>- Interactively build emotional connections: video chats with family and friends, or chat with ai.
+>- Danger notification: abnormal data monitoring to notify family and medical institutions.
+
+
+- More about the design: https://drive.google.com/file/d/1_BUC-bf_4qtL1moUx8gEG56QZfURRoCz/view?usp=share_link
+
+### Behavior Design 3 hour Hackthon - Localized community care system
+
+![](https://i.imgur.com/cfbq2w3.png)
+
+
+Community support systems designed to enhance senior living habits.
+>Topic:
+>
+>There are more and more young seniors like Mei in the society. They are at retirement age, they are in good health, their children are independent so they have no financial burden, and they are capable of taking care of themselves in life.
+>
+>Their focus has been on family, children and work, and they have never had the energy to cultivate their interests... After her husband's passing, Mei feels lonely because of the lack of social interaction, and usually watches TV at home by herself, but she is too shy to go out to make friends.
+>
+>Please use design methods and theories to help Mei's emotional problems, and encourage her to establish good habits so that she can be outgoing.
+
+
+- More about the design: https://drive.google.com/file/d/1HTJfC3-ptYEiPDnJqd9tcEY1y3iSwpz2/view?usp=share_link
+- Course Website: https://sites.google.com/iss.nthu.edu.tw/psychdesign-2021/intro
