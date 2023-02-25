@@ -70,6 +70,6 @@ The design of public services involves regulations, public opinion, and funding 
 
 ![](https://i.imgur.com/Yjo0xJp.jpg)
 
-- Life in TDRI：ninininichen.github.io/blog/000tdri_life
+- Life in TDRI：https://ninininichen.github.io/blog/000tdri_life/
 - TDRI：https://www.tdri.org.tw/
 - JD：https://www.facebook.com/permalink.php?story_fbid=pfbid02QuXc8PkYH9FjZ3GtMfZtNn32cveFzx7fYvjaWE5CqfP34RNcjRLScs7JmtJXQ4tEl&id=100003890667655
