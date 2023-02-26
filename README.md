@@ -6,7 +6,7 @@ Modern Personal Website Template with Project Section, CV Section, Paginated Blo
 
 ## Demo
 
-View a live demo of the [Astro Modern Personal Website](https://astro-modern-personal-website.netlify.app/)
+View a live demo of the [Astro Modern Personal Website](https://ninininichen.github.io/)
 
 ## Installation
 
