@@ -1,11 +1,17 @@
 ---
 title: "Taiwan ITRI New Venture Association"
-description: "Public Service User Experience Research Intern."
+description: "Event planing, Visual Design."
 pubDate: "Feburary 1 2020"
-heroImage: "https://i.imgur.com/s9DbiVd.jpg"
+heroImage: "https://i.imgur.com/syCO8by.jpg"
 ---
 
 
-![](https://i.imgur.com/DxZF3w7.png)
-![](https://i.imgur.com/AvB2AbG.jpg)
+![](https://i.imgur.com/1PtBBK9.jpg)
+![](https://i.imgur.com/VHNMD5b.jpg)
+![](https://i.imgur.com/sdcAbCS.jpg)
+![](https://i.imgur.com/GC7q5p6.jpg)
+![](https://i.imgur.com/FIff0WK.jpg)
+![](https://i.imgur.com/jR43LaE.jpg)
+
+- Websit: https://tinva.org/
 
