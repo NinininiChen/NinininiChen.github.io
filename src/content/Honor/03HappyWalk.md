@@ -1,5 +1,5 @@
 ---
-title: "Service Innocation Design - Desing for anti-aging"
+title: "Service Innovation Design - Desing for anti-aging"
 description: "The project is focused on senior service innovation, using digital technology to meet the needs of future seniors."
 pubDate: "June 15 2022"
 heroImage: "https://i.imgur.com/fx2sT8J.png"
