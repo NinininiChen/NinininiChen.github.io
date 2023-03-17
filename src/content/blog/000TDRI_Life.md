@@ -1,7 +1,7 @@
 ---
 title: "Life in TDRI"
 description: "Other than research: Learning resources, Exhibitions, and Support operations."
-pubDate: "August 30 2022"
+pubDate: "August 31 2022"
 heroImage: "https://i.imgur.com/GeKFaJy.jpg"
 ---
 除了既定工作事項，在 TDRI 實習，也能藉由主動爭取參與各項專案而獲得多元的學習機會，像是：
