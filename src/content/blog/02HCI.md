@@ -14,6 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > Related Methods: 
 #User Study #Questionar #Interview #Cross Tab Evaluation #Scenario-based Experiment #Flowchart #Prototype #Usibitlty Test
 
-
-- More information: https://drive.google.com/file/d/1Ts3qLqwyICSez59jgwmqS3fxxJYQHoiK/view?usp=share_link
-- Experiment website: https://sites.google.com/iss.nthu.edu.tw/chatbot-lala-experiment
+---
+- [More information](https://drive.google.com/file/d/1Ts3qLqwyICSez59jgwmqS3fxxJYQHoiK/view?usp=share_link) 
+- [Experiment website](https://sites.google.com/iss.nthu.edu.tw/chatbot-lala-experiment)

@@ -16,7 +16,7 @@ We assisted the venue manager to design a traditional table dinner(辦桌) to th
 >Related Methods:
 >#Desk Research #Field Study #Customer Survey #Semi-Constructure User Interview #ADR #Customer Journey Map #Empathy Map
 
-
-- More Information: https://drive.google.com/file/d/1tdMUYKWhAawsquTpVYAnWxb_7s2LWBZV/view?usp=share_link
-- Report: https://drive.google.com/file/d/1GC0Q1X4BN8NYjdiEka7NmMBvrJjdL-oJ/view?usp=share_link
-- Fanpage of 竹軒草塘：https://www.facebook.com/tree3.1416
+---
+- [More Information](https://drive.google.com/file/d/1tdMUYKWhAawsquTpVYAnWxb_7s2LWBZV/view?usp=share_link)
+- [Report](https://drive.google.com/file/d/1GC0Q1X4BN8NYjdiEka7NmMBvrJjdL-oJ/view?usp=share_link)
+- [Fanpage of 竹軒草塘](https://www.facebook.com/tree3.1416)
